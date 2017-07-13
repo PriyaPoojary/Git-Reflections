@@ -1,1 +1,3 @@
 What happens when you initialize a git?
+
+How can you use statging arear to make sure you have one logical change per commit?
