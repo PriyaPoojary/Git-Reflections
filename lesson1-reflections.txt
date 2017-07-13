@@ -1,1 +1,61 @@
-my reflecions on udacity
+Lesson 1 Refelections
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+--By Comparing the two versions of a file, I have been able to find the bug  introduces by changes made in the new version.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+--It will help me when I make changes and help me understand why and how I made those changes.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+--Pros are: It helps me to decide which changes goes in one commit ratther than randomly commiting changes automatically.
+Cons: I have to manually commit everytime I make changes.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+--It is because version control systems like Git has some advantage over google docs
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+How can you use the commands git log and git diff to view the history of files?
+--Git log shows you the changges been committed in a file starting from the most recent commit, git diff allows you o compare any two commit and track teh changes introduced by the latest commit.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+How might using version control make you more confident to make changes that
+could break something?
+--Because I can revert to a previous commit any time I want.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Now that you have your workspace set up, what do you want to try using Git for?
+--I would use git version control to try out new changes on my code while doing front end development.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Commands:
+
+q: exit git log
+
+git log: List the commits and show which files have changed
+
+git log --stat: Show addition information about the commits
+
+git diff id1 id2: Compare two commits
+
+git clone: Create a local copy/clone from the repository
+
+git config --global: Make changes in the config file that apply globally.
+
+git checkout: Shows a previous version of the file.
